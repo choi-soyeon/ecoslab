@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://choi-soyeon.github.io/ecoslab/sitemap.xml
+Sitemap: https://ecoslab.yonsei.ac.kr/sitemap.xml

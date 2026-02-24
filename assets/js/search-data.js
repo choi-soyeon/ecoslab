@@ -7,28 +7,28 @@ ninja.data = [{
     title: "HOME",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/ecoslab/";
+      window.location.href = "/";
     },
   },{id: "nav-research",
           title: "RESEARCH",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ecoslab/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-people",
           title: "PEOPLE",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ecoslab/people/";
+            window.location.href = "/people/";
           },
         },{id: "nav-opportunities",
           title: "OPPORTUNITIES",
           description: "Get involved in our lab.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ecoslab/opportunities/";
+            window.location.href = "/opportunities/";
           },
         },{id: "news-the-ecology-amp-amp-social-psychology-lab-is-currently-recruiting-graduate-students-and-undergraduate-research-assistants-if-you-are-interested-in-joining-the-lab-please-see-the-opportunities-page-for-details",
           title: 'The Ecology &amp;amp;amp; Social Psychology Lab is currently recruiting graduate students and undergraduate...',
