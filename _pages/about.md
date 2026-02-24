@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: in the <a href='https://psychsci.yonsei.ac.kr/'>Department of Psychology</a> at <a href='http://www.yonsei.ac.kr/'>Yonsei University</a>
+subtitle: in the <a href='https://psychsci.yonsei.ac.kr/'><strong>Department of Psychology</strong></a> at <a href='http://www.yonsei.ac.kr/'><strong>Yonsei University</strong></a>
 
 profile:
   align: right
@@ -25,4 +25,4 @@ latest_posts:
 
 Welcome to the Ecology & Social Psychology Lab!
 
-We take an <mark>evolutionary and ecological approach to studying social life</mark>, examining <mark>how</mark> and <mark>why</mark> features of our environment (e.g., pathogen prevalence, resources, population density) shape social motives and relationships.
+We take an **<mark>evolutionary and ecological approach to studying social life</mark>**, examining **<mark>how</mark>** and **<mark>why</mark>** features of our environment (e.g., pathogen prevalence, resources, population density) shape social motives and relationships.
