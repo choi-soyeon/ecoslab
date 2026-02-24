@@ -11,7 +11,7 @@ nav_order: 1
 
 #### **<mark>OVERVIEW</mark>**
 <blockquote style="font-size:1rem; font-style:normal;">
-We study social behavior, focusing not just on how people act, but why. Many of our current projects examine how ecological conditions (like pathogen prevalence, resource availability, and population density) fundamentally shape the way people connect with others, drawing on social, evolutionary, and ecological perspectives. We use a variety of methods in our research, including lab experiments, online surveys, field studies, analyses of social network datasets, and agent-based simulations using large language model agents.
+We study social behavior, focusing not just on how people act, but why. Many of our current projects examine how ecological conditions (like pathogen prevalence, resource availability, and population density) fundamentally shape the way people connect with others, drawing on social, evolutionary, and ecological perspectives. We use a variety of methods in our research, including lab experiments, online surveys, field studies, analyses of social network datasets, and simulations using large language model agents.
 </blockquote>
 
 We are presently exploring themes like:
