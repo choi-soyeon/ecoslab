@@ -17,7 +17,8 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            {% assign brand_title = site.short_title | default: site.title %}
+            <span class="font-weight-bold">{{ brand_title }}</span>
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}

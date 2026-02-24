@@ -2,14 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: true
-nav_order: 6
-calendar: true
+description:
+nav: false
+published: false
+nav_order: 31
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+## Instructor, Department of Psychology, Yonsei University
+- Evolution and Behavior (PSY3175), Spring 2026

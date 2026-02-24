@@ -1,8 +1,15 @@
+{% assign footer_name = site.first_name | default: '' %}
+{% if site.middle_name and site.middle_name != '' %}
+  {% assign footer_name = footer_name | append: ' ' | append: site.middle_name %}
+{% endif %}
+{% if site.last_name and site.last_name != '' %}
+  {% assign footer_name = footer_name | append: ' ' | append: site.last_name %}
+{% endif %}
+{% assign footer_name = footer_name | strip %}
+
 {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
+  {{ footer_name }}{% if footer_name != '' %}.{% endif %} {{ site.footer_text | strip }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
