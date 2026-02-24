@@ -17,7 +17,7 @@ We study social behavior, focusing not just on how people act, but why. Many of 
 We are presently exploring themes like:
 - How does living in regions with higher disease risk shape people’s everyday social ties and activities?
 - How does feeling like resources are scarce (or could change suddenly) affect the choices people make?
-- How does living in crowded vs. spread-out neighborhoods shape how people see themselves and treat other people?
+- How does living in crowded vs. spread-out neighborhoods shape the way people see themselves and treat others?
 - Can we model social behavior under ecological threat using large language model-based agents (AI simulated individuals)?
 
 See our publications below.
