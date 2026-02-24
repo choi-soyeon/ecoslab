@@ -74,6 +74,22 @@
 {% elsif site.icon != blank %}
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
+<script>
+  (() => {
+    try {
+      const storedTheme = localStorage.getItem("theme");
+      const themeSetting = ["dark", "light", "system"].includes(storedTheme) ? storedTheme : "system";
+      const computedTheme =
+        themeSetting === "system"
+          ? window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light"
+          : themeSetting;
+      document.documentElement.setAttribute("data-theme-setting", themeSetting);
+      document.documentElement.setAttribute("data-theme", computedTheme);
+    } catch (e) {}
+  })();
+</script>
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 

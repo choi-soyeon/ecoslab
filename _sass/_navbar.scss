@@ -183,6 +183,11 @@
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  display: inline-block;
+
+  .nav-link {
+    min-width: 3.2rem;
+  }
 
   &:hover {
     color: var(--global-hover-color);
