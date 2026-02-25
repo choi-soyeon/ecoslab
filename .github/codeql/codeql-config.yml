@@ -1,0 +1,9 @@
+name: "CodeQL config"
+
+# Exclude generated/vendor frontend bundles that trigger parser warnings
+# (e.g., modern minified syntax in search libraries). Keep source files scanned.
+paths-ignore:
+  - assets/js/**
+  - _site/**
+  - node_modules/**
+  - vendor/**
