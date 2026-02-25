@@ -11,7 +11,6 @@ Dr. Choi is an Assistant Professor at Yonsei University's Department of Psycholo
 <p style="font-size:0.90rem; margin-bottom:0.25rem;"><strong>Education</strong></p>
 <ul style="font-size:0.90rem; margin-top:0; margin-bottom:0; margin-left:0; padding-left:0; list-style-position:inside;">
   <li>PhD, Social Psychology, University of Michigan (2024)</li>
-  <li>Graduate Data Science Certificate, Michigan Institute for Data & AI in Society (2022)</li>
   <li>MA, Social Psychology, Yonsei University (2018)</li>
   <li>BA, English Language & Literature; Psychology, Yonsei University (2016)</li>
 </ul>
