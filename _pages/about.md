@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: in the <a href='https://psychsci.yonsei.ac.kr/'><strong>Department of Psychology</strong></a> at <a href='http://www.yonsei.ac.kr/'><strong>Yonsei University</strong></a>
+subtitle: in the <a href='https://psychsci.yonsei.ac.kr/'><strong>Department of Psychology</strong></a> at <a href='https://www.yonsei.ac.kr/'><strong>Yonsei University</strong></a>
 
 profile:
   align: right
