@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the Ecology & Social Psychology Lab!
+Welcome to the ECoS Lab!
 
-We take an **<mark>evolutionary and ecological approach to studying social life</mark>**, examining **<mark>how</mark>** and **<mark>why</mark>** features of our environment (e.g., pathogen prevalence, resources, population density) shape social motives and relationships.
+We take an **<mark>evolutionary and ecological approach to studying social life</mark>**, examining **<mark>how</mark>** and **<mark>why</mark>** features of our environment shape social motives and relationships.
