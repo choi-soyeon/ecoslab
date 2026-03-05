@@ -1,4 +1,4 @@
-#### **Soyeon Choi, Lab director**  
+#### **Soyeon Choi, Lab Director**  
 
 Dr. Choi is an Assistant Professor at Yonsei University's Department of Psychology and leads the Ecology & Social Psychology Lab.
 
