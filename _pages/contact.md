@@ -16,5 +16,5 @@ If you’re thinking about applying to join the ECoS lab, I’m most interested 
   
 #### **<mark>FOR POTENTIAL UNDERGRADUATE RESEARCH ASSISTANTS</mark>**
 <blockquote style="font-size:1rem; font-style:normal;">
-For Spring and Summer 2026, I’m looking for undergraduate research assistants who (1) have taken coursework in social and/or evolutionary psychology and (2) are familiar with using R. Starting in Fall 2026, I’ll be recruiting students for a wider range of roles, including literature reviews, preparing study materials, and helping with data collection.
+I’ll be recruiting undergraduate RAs starting Spring 2026 for a variety of roles, including literature reviews, brainstorming, preparing study materials, data collection, and data analysis. Experience with social and/or evolutionary psychology and familiarity with R are a plus, but not required. Curiosity and enthusiasm for research matter most. If you are interested, please email me with a brief introduction of yourself and a few sentences about why you’d like to join the lab.
 </blockquote>
