@@ -11,14 +11,14 @@ nav_order: 1
 
 #### **<mark>Overview</mark>**
 <blockquote style="font-size:1rem; font-style:normal;">
-We study social behavior, focusing not just on how people act, but why. Many of our current projects examine how ecological conditions (such as pathogen prevalence, resource availability, and population density) fundamentally shape the way people connect with others, drawing on social, evolutionary, and ecological perspectives. We use a variety of methods in our research, including lab experiments, online surveys, field studies, analyses of social network datasets, and simulations using large language model agents.
+We study social behavior, focusing not just on how people act, but why. Many of our current projects examine how ecological conditions (such as pathogen prevalence, resource availability, and population density) fundamentally shape the way people connect with others, drawing on social, evolutionary, and ecological perspectives. We use a variety of methods in our research, including lab experiments, online surveys, field studies, analyses of social network datasets, and simulations with large language model agents.
 </blockquote>
 
-We are currently asking questions like:
+Current questions include:
 - How does living in regions with higher disease risk shape people’s everyday social ties and activities?
-- How does feeling like resources are scarce (or could change suddenly) affect the choices people make?
-- How does living in crowded vs. spread-out neighborhoods shape the way people see themselves and treat others?
-- Can we model social behavior under ecological threat using large language model-based agents (AI simulated individuals)?
+- How does feeling like resources are scarce, or could change suddenly, affect the choices people make?
+- How does living in crowded versus spread-out neighborhoods shape the way people see themselves and treat others?
+- Can social behavior under ecological threat be modeled using large language model-based agents?
 
 Explore the publications below to learn more about our work.
 <div style="height:0.6rem;"></div>
