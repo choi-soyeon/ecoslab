@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: RESEARCH
-description: 
+description:
 nav: true
 nav_order: 1
 ---
@@ -10,17 +10,20 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 #### **<mark>Overview</mark>**
+
 <blockquote style="font-size:1rem; font-style:normal;">
 We study social behavior, focusing not just on how people act, but why. Many of our current projects examine how ecological conditions (such as pathogen prevalence, resource availability, and population density) fundamentally shape the way people connect with others, drawing on social, evolutionary, and ecological perspectives. We use a variety of methods in our research, including lab experiments, online surveys, field studies, analyses of social network datasets, and simulations with large language model agents.
 </blockquote>
 
 Current questions include:
+
 - How does living in regions with higher disease risk shape people’s everyday social ties and activities?
 - How does feeling like resources are scarce, or could change suddenly, affect the choices people make?
 - How does living in crowded versus spread-out neighborhoods shape the way people see themselves and treat others?
 - Can social behavior under ecological threat be modeled using large language model-based agents?
 
 Explore the publications below to learn more about our work.
+
 <div style="height:0.6rem;"></div>
 
 <!-- Bibsearch Feature -->

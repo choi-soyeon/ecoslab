@@ -6,8 +6,8 @@ Use this file as a copy source when writing `.md` content.
 
 ```md
 **bold**
-*italic*
-***bold italic***
+_italic_
+**_bold italic_**
 ~~strikethrough~~
 `inline code`
 \*escaped literal asterisks\*
@@ -17,8 +17,11 @@ Use this file as a copy source when writing `.md` content.
 
 ```md
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
 ```
 
@@ -57,19 +60,22 @@ Second line
 
 ## 6) Code Blocks
 
-```md
+````md
 ```python
 # Python example
 print("hello")
 ```
-```
+````
+
+````
 
 ```md
 ```bash
 # Bash example
 ls -la
-```
-```
+````
+
+````
 
 ## 7) Table
 
@@ -78,7 +84,7 @@ ls -la
 |---|---|---|
 | Person A | PI | a@example.com |
 | Person B | RA | b@example.com |
-```
+````
 
 ## 8) Footnotes
 
@@ -96,6 +102,7 @@ Here is a sentence with a footnote.[^1]
 We study how [topic] shapes [outcome] across [context].
 
 Our methods include:
+
 - controlled experiments
 - field/observational studies
 - secondary data analysis

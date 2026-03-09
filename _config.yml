@@ -10,7 +10,7 @@ last_name:
 contact_note: >
   Email: choi.soyeon[at]yonsei.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
   Yonsei University, South Korea.
   Jekyll al-folio GitHub Pages.

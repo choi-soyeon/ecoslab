@@ -77,16 +77,16 @@
 <script>
   (() => {
     try {
-      const storedTheme = localStorage.getItem("theme");
-      const themeSetting = ["dark", "light", "system"].includes(storedTheme) ? storedTheme : "system";
+      const storedTheme = localStorage.getItem('theme');
+      const themeSetting = ['dark', 'light', 'system'].includes(storedTheme) ? storedTheme : 'system';
       const computedTheme =
-        themeSetting === "system"
-          ? window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
-            ? "dark"
-            : "light"
+        themeSetting === 'system'
+          ? window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+            ? 'dark'
+            : 'light'
           : themeSetting;
-      document.documentElement.setAttribute("data-theme-setting", themeSetting);
-      document.documentElement.setAttribute("data-theme", computedTheme);
+      document.documentElement.setAttribute('data-theme-setting', themeSetting);
+      document.documentElement.setAttribute('data-theme', computedTheme);
     } catch (e) {}
   })();
 </script>
