@@ -35,3 +35,7 @@ Browse our representative papers below.
 {% bibliography %}
 
 </div>
+
+<p style="font-size:0.8rem; margin-top:1.5rem;">
+Articles are posted for individual, noncommercial use to ensure timely dissemination of scholarly work. Copyright resides with the respective copyright holders, as stated in each article.
+</p>
