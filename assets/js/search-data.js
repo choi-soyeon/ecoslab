@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-the-ecology-amp-amp-social-psychology-lab-is-currently-recruiting-graduate-students-and-undergraduate-research-assistants-if-you-are-interested-in-joining-the-lab-please-see-the-opportunities-page-for-details",
           title: 'The Ecology &amp;amp;amp; Social Psychology Lab is currently recruiting graduate students and undergraduate...',
           description: "",
+          section: "News",},{id: "news-hannah-and-yeseong-have-joined-the-lab-as-research-assistants-welcome",
+          title: 'Hannah and Yeseong have joined the lab as research assistants. Welcome!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
