@@ -20,12 +20,15 @@ profiles:
   - align: right
     image: hannah.jpg
     content: about_hannah.md
-    image_circular: false
+    image_circular: true
+    image_position: left
+    section: Undergraduate RAs
     more_info:
   - align: left
     image: yeseong.jpeg
     content: about_yeseong.md
-    image_circular: false
+    image_circular: true
+    image_position: top
     more_info:
   - align: right
     image:

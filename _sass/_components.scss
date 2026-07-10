@@ -58,6 +58,19 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img.profile-image-circular {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
+  img.profile-image-left {
+    object-position: left center;
+  }
+
+  img.profile-image-top {
+    object-position: center top;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;

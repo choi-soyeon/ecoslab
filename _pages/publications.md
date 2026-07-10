@@ -22,7 +22,7 @@ Current questions include:
 - How does living in crowded versus spread-out neighborhoods shape the way people see themselves and treat others?
 - Can social behavior under ecological threat be modeled using large language model-based agents?
 
-Explore the representative papers below.
+Browse our representative papers below.
 
 <div style="height:0.6rem;"></div>
 
