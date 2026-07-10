@@ -6,4 +6,7 @@ function gtag() {
   window.dataLayer.push(arguments);
 }
 gtag("js", new Date());
-gtag("config", "{{ site.google_analytics }}");
+const analyticsPageTitle = document.querySelector('meta[name="analytics-page-title"]')?.content;
+gtag("config", "{{ site.google_analytics }}", {
+  page_title: analyticsPageTitle || document.title,
+});
