@@ -35,6 +35,7 @@ profiles:
   - align: right
     image:
     content: about_recruitment.md
+    content_class: join-lab-section
     image_circular: false # crops the image to make it circular
     more_info:
 ---

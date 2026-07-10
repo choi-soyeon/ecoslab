@@ -34,7 +34,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix{% if profile.content_class %} {{ profile.content_class }}{% endif %}">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
