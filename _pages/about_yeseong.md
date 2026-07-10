@@ -1,0 +1,3 @@
+#### **Yeseong Cho, Research Assistant**
+
+Yeseong is an undergraduate student majoring in Psychology at Yonsei University. His research interests lie in how ecological and social contexts, such as resource availability, interpersonal relationships, and geography, influence human mate preferences. In particular, he is interested in understanding how preferences for sexual dimorphism are shaped by environmental conditions rather than being fixed or universal. Outside of research, he has recently been developing a data-driven wellness program that connects clients with healthcare institutions and counseling centers. He also enjoys small talk and getting to know people.

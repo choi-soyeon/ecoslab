@@ -18,6 +18,16 @@ profiles:
       <p style="font-size:0.85rem;">Oesol Hall 513</a></p>
       <p style="font-size:0.85rem;">50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea</a></p>
   - align: right
+    image: hannah.jpg
+    content: about_hannah.md
+    image_circular: false
+    more_info:
+  - align: left
+    image: yeseong.jpeg
+    content: about_yeseong.md
+    image_circular: false
+    more_info:
+  - align: right
     image:
     content: about_recruitment.md
     image_circular: false # crops the image to make it circular
