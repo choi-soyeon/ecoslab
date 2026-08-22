@@ -38,10 +38,4 @@ profiles:
     image_square: true
     image_position: top
     more_info:
-  - align: right
-    image:
-    content: about_recruitment.md
-    content_class: join-lab-section
-    image_circular: false # crops the image to make it circular
-    more_info:
 ---

@@ -17,5 +17,5 @@ If you’re thinking about applying to join the ECoS lab, I’m most interested 
   
 #### **<mark>For Potential Undergraduate Research Assistants</mark>**
 <blockquote style="font-size:1rem; font-style:normal;">
-I’ll be recruiting undergraduate RAs starting Spring 2026 for a variety of roles, including literature reviews, brainstorming, preparing study materials, data collection, and data analysis. Experience with social and/or evolutionary psychology and familiarity with R are a plus, but not required. Curiosity and enthusiasm for research matter most. If you're interested, please <a href="mailto:choi.soyeon@yonsei.ac.kr">email me</a> your transcript with a brief introduction and a few words on why you'd like to join the lab.
+I’ll be recruiting undergraduate RAs starting Spring 2026 for a variety of roles, including literature reviews, brainstorming, preparing study materials, data collection, and data analysis. Experience with social and/or evolutionary psychology and familiarity with R are a plus, but not required. Curiosity and enthusiasm for research matter most. If you’re interested in joining the lab, please <a href="mailto:choi.soyeon@yonsei.ac.kr">email me</a> a brief introduction, a few words about why you’d like to join, and a copy of your transcript.
 </blockquote>
