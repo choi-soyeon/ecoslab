@@ -18,14 +18,20 @@ profiles:
       <p style="font-size:0.85rem;">Oesol Hall 513</a></p>
       <p style="font-size:0.85rem;">50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea</a></p>
   - align: right
+    image: shiha_kim.jpg
+    content: about_shiha.md
+    image_circular: false
+    image_square: true
+    section: Undergraduate Research Assistants
+    more_info:
+  - align: left
     image: hannah.jpg
     content: about_hannah.md
     image_circular: false
     image_square: true
     image_position: left
-    section: Undergraduate Research Assistants
     more_info:
-  - align: left
+  - align: right
     image: yeseong.jpeg
     content: about_yeseong.md
     image_circular: false
